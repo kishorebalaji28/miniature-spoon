@@ -1,4 +1,4 @@
-# miniature-spoon
+KISHORE.B
 SMART BLIND STICK WITH VOICE OUTPUT:
 This project is made using ultrasonic to predict the distance on the object in front and to produce a voice output to the blind person to change
 direction if any object is detected using python and the respective modules.
